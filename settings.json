@@ -1,0 +1,18 @@
+{
+    "name": "TEST",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Test",
+        "/category/asset_value_tracking/core-token/symbol": "TestTest",
+        "/category/asset_value_tracking/core-token/decimals": "7",
+        "/category/asset_value_tracking/core-token/supply": "26000000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
